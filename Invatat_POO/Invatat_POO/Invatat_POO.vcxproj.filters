@@ -18,5 +18,8 @@
     <ClCompile Include="bubblesort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="magazin_clase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
