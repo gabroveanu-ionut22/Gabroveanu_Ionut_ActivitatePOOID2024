@@ -34,12 +34,12 @@ private:
 class Leu : public Mamifer {
 public:
     Leu() : Mamifer("Leu") {}
-    string getSunet() const override { return "Roar!"; }
+    string getSunet() const override { return "Racnet!"; }
 };
 class Vultur : public Pasare {
 public:
     Vultur() : Pasare("Vultur") {}
-    string getSunet() const override { return "Screech!"; }
+    string getSunet() const override { return "Tipat de vultur!"; }
 };
 class GradinaZoologica {
 public:
