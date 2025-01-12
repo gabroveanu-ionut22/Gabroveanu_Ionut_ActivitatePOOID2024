@@ -21,5 +21,8 @@
     <ClCompile Include="magazin_clase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exersat_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

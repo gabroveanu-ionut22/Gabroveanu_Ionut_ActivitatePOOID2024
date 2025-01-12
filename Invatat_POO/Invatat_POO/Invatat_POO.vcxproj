@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bubblesort.cpp" />
+    <ClCompile Include="exersat_3.cpp" />
     <ClCompile Include="magazin_clase.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
